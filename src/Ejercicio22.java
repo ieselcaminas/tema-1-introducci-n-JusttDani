@@ -4,7 +4,7 @@ public class Ejercicio22 {
     public static void main(String[] args) {
         Scanner inputValue = new Scanner(System.in);
         int numero;
-        int positivos  = 0;
+        int positivos  =  0;
         for( int i = 0; i < 10; i++ ){
             numero = inputValue.nextInt();
             if(numero > 0){
